@@ -190,3 +190,18 @@ button:hover {
     margin-top: 15px;
     font-size: 14px;
 }
+.footer
+{
+    padding:10px 40px;
+    margin-top: 2vw;
+    border-top: 2px solid salmon; 
+    height: 15vw;
+    background-color: #FEEAEB;
+    font-weight: bold;
+
+}
+.row
+{
+    margin-left: auto;
+margin-right: auto;
+}

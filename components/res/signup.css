@@ -171,3 +171,16 @@ button:hover {
 {
     margin-left: 20px;
 }
+.footer
+{
+    padding:10px 40px;
+    border-top: 2px solid salmon; 
+    height: 15vw;
+    background-color: #FEEAEB;
+    font-weight: bold;
+}
+.row
+{margin-top:-30px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
